@@ -2,3 +2,9 @@ Hello World!
 Hello git!
 
 EDITED IN NEW BRANCH
+
+They said there is just a simple changes.
+So I am editing this file to make the changes far away from the SIMPLE.
+
+Maybe they will consider even this Edit as a simple change.
+But i will do my best to provide a major change	
